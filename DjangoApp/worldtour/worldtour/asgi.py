@@ -3,7 +3,7 @@ ASGI config for worldtour project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
-For more information on this files, see
+For more information on this file
 https://docs.djangoproject.com/en/6.0/howto/deployment/asgi/
 """
 
